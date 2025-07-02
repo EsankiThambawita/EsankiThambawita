@@ -1,4 +1,4 @@
-![Greeting](https://img.shields.io/badge/Hello-I'm%20Esanki-blue?style=for-the-badge&logo=visual-studio-code)
+<img src="banner.png" alt="Hello, I'm Esanki" width="100%" />
 
 
 ### 3rd Year Computer Science Undergraduate at NSBM Green University  
