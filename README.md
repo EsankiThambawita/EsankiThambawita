@@ -64,13 +64,13 @@
 
 ## Let's Connect
 
-<p>
+<p align="left">
   <a href="mailto:esankithambawita@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-esankithambawita@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/esanki-thambawita-350947256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Esanki%20Thambawita-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
