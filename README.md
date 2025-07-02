@@ -2,7 +2,6 @@
   <img src="banner.png" alt="Hello, I'm Esanki Thambawita" width="100%" />
 </p>
 
-<h1 align="center">Esanki Thambawita</h1>
 <h3 align="center">3rd Year Computer Science Undergraduate at NSBM Green University</h3>
 <p align="center">
   Fast learner passionate about software development, eager to contribute and grow through internships and projects.
