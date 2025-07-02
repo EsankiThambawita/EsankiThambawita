@@ -67,4 +67,5 @@
 
 ---
 
-Thank you for visiting my profile.
+I am actively seeking **Software Engineer** and **Full Stack Developer** internships where I can contribute, learn, and grow.  
+If you’re looking for a passionate, fast-learning developer to join your team, feel free to reach out!
