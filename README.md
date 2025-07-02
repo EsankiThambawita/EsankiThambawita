@@ -1,62 +1,47 @@
-<!--
-  Tip: You can use shields.io badges for colors and info:
-  https://shields.io/
--->
+# Hi, I'm Esanki Thambawita 👋
 
-# Hi there 👋, I'm Esanki Lakvindee!
-
-<div align="center">
-
-### 🚀 Developer | Problem Solver | Lifelong Learner
-
-</div>
+### 3rd Year Computer Science Undergraduate at NSBM Green University  
+Fast learner passionate about software development, eager to apply my skills through internships and real-world projects.
 
 ---
 
-## 🌈 About Me
+## 🔭 Previous Internship Experience
 
-- 🔭 I’m currently working on **exciting projects** in **React, Node.js, and Java**
-- 🌱 Always learning **new technologies** like **Docker**, **AWS**, and **TypeScript**
-- 💬 Ask me about **web development**, **backend APIs**, or **clean code**
-- ⚡ Fun fact: I love turning coffee ☕ into code!
+**Software Engineer Intern — Tecxick**  
+*Jan 2024 – Jul 2024 (7 months)*
 
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+- Developed and maintained web applications using HTML5, CSS3, SCSS, JavaScript, and WordPress.  
+- Built standalone software with C#, XAML, and .NET Framework.  
+- Conducted debugging, testing, and UI/UX improvements using Figma.
 
 ---
 
-## 📫 How to reach me
+## 🔧 Tech Stack
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+<p>
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📫 How to Reach Me
 
-<div align="center">
-
-![Esanki's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsankiThambawita&show_icons=true&theme=radical)
-
-</div>
+- **Email:** [esankithambawita@gmail.com](mailto:esankithambawita@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/esanki-thambawita-350947256](https://www.linkedin.com/in/esanki-thambawita-350947256/)
 
 ---
 
-Thanks for stopping by! Feel free to explore my repos and connect! 🚀
-
+Thank you for visiting my profile! I am actively looking for internship opportunities to grow and contribute as a software developer.
