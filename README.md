@@ -1,4 +1,5 @@
-# Greetings from Esanki Thambawita 👨‍💻
+![Greeting](https://img.shields.io/badge/Hello-I'm%20Esanki-blue?style=for-the-badge&logo=visual-studio-code)
+
 
 ### 3rd Year Computer Science Undergraduate at NSBM Green University  
 Fast learner passionate about software development, eager to apply my skills through internships and real-world projects.
