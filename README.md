@@ -62,10 +62,17 @@
 </table>
 ---
 
-## Contact Me
+## Let's Connect
 
-- Email: [esankithambawita@gmail.com](mailto:esankithambawita@gmail.com)  
-- LinkedIn: [linkedin.com/in/esanki-thambawita-350947256](https://www.linkedin.com/in/esanki-thambawita-350947256/)
+<p>
+  <a href="mailto:esankithambawita@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/esanki-thambawita-350947256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
