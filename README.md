@@ -1,4 +1,4 @@
-# Hi, I'm Esanki Thambawita 👋
+# Greetings from Esanki Thambawita 👨‍💻
 
 ### 3rd Year Computer Science Undergraduate at NSBM Green University  
 Fast learner passionate about software development, eager to apply my skills through internships and real-world projects.
@@ -16,7 +16,7 @@ Fast learner passionate about software development, eager to apply my skills thr
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack & Tools
 
 <p>
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> &nbsp;
@@ -35,6 +35,23 @@ Fast learner passionate about software development, eager to apply my skills thr
   <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 </p>
 
+<p>
+  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;
+  <img alt="IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EsankiThambawita&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsankiThambawita&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
 ---
 
 ## 📫 How to Reach Me
@@ -44,4 +61,4 @@ Fast learner passionate about software development, eager to apply my skills thr
 
 ---
 
-Thank you for visiting my profile! I am actively looking for internship opportunities to grow and contribute as a software developer.
+Thank you for visiting my profile! I am actively seeking internship opportunities to grow and contribute as a software developer.
